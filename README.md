@@ -52,4 +52,4 @@ The project consists of three main components:
    - Clean up compiled binaries and object files with:
      make clean
 
-## (This assignment is part of the Operating Systems course at Tel Aviv University).
+## (This project is part of the Operating Systems course at Tel Aviv University).
