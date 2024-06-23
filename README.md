@@ -12,8 +12,8 @@ The project consists of three main components:
    - Handles operations like setting channels (`ioctl`), sending messages (`write`), and receiving messages (`read`).
 
 2. **User Programs**:
-   - **`message_sender`**: Sends messages to specific channels of message slots.
-   - **`message_reader`**: Reads messages from specific channels of message slots.
+   - `message_sender`: Sends messages to specific channels of message slots.
+   - `message_reader`: Reads messages from specific channels of message slots.
    - These programs interact with the kernel module to manage and exchange messages.
 
 3. **Makefile**:
